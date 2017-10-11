@@ -1,0 +1,22 @@
+.box{
+  width: 100px;
+  height: 100px;
+  background-color: brown;
+  padding: 12px;
+  border: 1px solid black;
+}
+#wrapper{
+  display: flex;
+  flex-direction: row;
+}
+.btn{
+  color: white;
+  height: 70px;
+  width: 70px;
+}
+#on{
+  background-color: green;
+}
+#off{
+  background-color: red;
+}
